@@ -31,8 +31,6 @@ main {
 #main-text {
     background-color: aqua;
     right: 0;
-    position: absolute;
-    text-align: center;
-    top: 50%;
+    text-align: left;
     width: 50%;
 }
